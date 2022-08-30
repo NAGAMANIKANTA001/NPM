@@ -7,8 +7,13 @@
 	"scripts": {
 		"start": "node server.js"
 	},
+	"author": "Nagamanikanta",
+	"description": "Just Learning",
 	"repository": {
 		"type": "git",
 		"url": "https://idontknow/todo.git"
-	}
+	},
+	"keywords": ["Node JS","Practice","freecodecamp"],
+	"license": "MIT",
+	"version": "0.0.1"
 }
